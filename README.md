@@ -24,5 +24,12 @@ I’m @HubertR21, also known as Hubert Ruczyński
 - Basics of C++
 - Basic knowledge of Quantum Artificial Intelligence
 - High level of English around C2 level
+
+# GitHub stats
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HubertR21&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HubertR21&hide_progress=false&theme=tokyonight&count_private=true&include_all_commits=true)]
+
 # My projects
 Feel free to browse my projects ⬇️ 📦
