@@ -11,7 +11,7 @@ I’m @HubertR21, also known as Hubert Ruczyński
 - 👓 I also enjoy spreading the knowledge, so I've participated in 5 Data Science Conferences (WhyR? Conf, Coseal, MLinPL x 2, Ghost Day),
 - 📑 Additionally, in 2023 the paper about forester package got accepted at AutoML'2023 Conference: https://openreview.net/pdf?id=Q3DWpGoX7PD,
 - 📫 You can reach me via my email address hruczynski21@interia.pl, or LinkedIn profile https://www.linkedin.com/in/hubertr21/.
-- 
+
 #  My current skills 💪
 - Highly advanced knowledge of R: Package development, AutoML, Data Visualization, Neural Networks, ML, XAI, fairnesss,
 - Advanced knowledge of Python: ML, Neural Networks, Data Visualizations, NLP, Deep Learning, Data Preparation and Preprocessing,
