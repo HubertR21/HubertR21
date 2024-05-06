@@ -13,8 +13,8 @@ I’m @HubertR21, also known as Hubert Ruczyński
 - 📑 In 2023 the paper about forester package, titled 'forester: A Novel Approach to Accessible and Interpretable AutoML for Tree-Based Modeling' got accepted at AutoML'2023 Conference: https://openreview.net/pdf?id=Q3DWpGoX7PD,
 - 📑 Currently, the NLP related, ATLAS project paper titled: 'Big Tech influence over AI research revisited: memetic analysis of attribution of ideas to affiliation' is under review to Journal of Informetrics,
 - 📑 Another 2 papers regarding the forester project are in progress,
-- 📫 You can reach me via my email address hruczynski21@interia.pl, or LinkedIn profile https://www.linkedin.com/in/hubertr21/.
-
+- 📫 You can reach me via my email address hruczynski21@interia.pl, or LinkedIn profile https://www.linkedin.com/in/hubertr21/,
+- ✔️ You can browse all the projects, presentations, papers, certificates, etc on [this repository](https://github.com/HubertR21/Hubert-Ruczynski-Projects).
 #  My current skills 💪
 - Highly advanced knowledge of R: Package development, AutoML, Data Visualization, Neural Networks, ML, XAI, Fairnesss, Reporting, Statistics, Statistical Learning, Interpretability, Shiny Apps, Network Analysis,
 - Advanced knowledge of Python: AutoML, ML, Data Visualizations, Data Preparation and Preprocessing, NLP, Neural Networks, Deep Learning, Bioinformatics, Voice Detection and Analysis,
